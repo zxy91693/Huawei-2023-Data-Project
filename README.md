@@ -4,7 +4,8 @@ NUS Next++ Huawei Project 2023
 ## Preprocessing 
 The data preprocessing of Huawei 2023 data and also the calculation of popularity
 
-==The popuarity part is in main/Preprocessing/Preprocessing.ipynb==
+<mark>The popuarity part is in main/Preprocessing/Preprocessing.ipynb</mark>
+We only use the time series prediction method.
 
 PDA:
   ![Image text](https://github.com/zxy91693/Huawei-2023-Data-Project/blob/main/images/PD_PDA.PNG)
