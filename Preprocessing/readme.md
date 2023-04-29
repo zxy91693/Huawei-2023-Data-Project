@@ -20,4 +20,4 @@ Drop the dupilcate of (U_id,I_id,label)
 ## Remap feature and save
 
 ## Application
-Assume the original score of DCN model output before sigmoid is S with popuarity P. The PDA output is $$S' = S \times P^{\gamma}$$
+Assume the original score of DCN model output before activation function is S with popuarity P. The PDA output is $$S' = S \times P^{\gamma}$$
