@@ -12,7 +12,9 @@ Drop the dupilcate of (U_id,I_id,label)
 2.  Split Dataset into Train Valid(wuwi,wuci,cuwi,cuci) Test(wuwi,wuci,cuwi,cuci)
 
 ## Calculate unnormalized popularity
+ ![Image text](https://github.com/zxy91693/Huawei-2023-Data-Project/blob/main/images/Unnormalized_popularity.PNG)
 
 ## Calculate normalized popularity
+ ![Image text](https://github.com/zxy91693/Huawei-2023-Data-Project/blob/main/images/Normalized_popularity.PNG)
 
 ## Remap feature and save
